@@ -1,4 +1,4 @@
-![](http://cvlassets.s3.amazonaws.com/trackacat-banner.png)
+![](http://cvlassets.s3.amazonaws.com/Track-a-CAT.png)
 
 # Chatham Area Transit Trolley Tracker
 ### A project of [Open Savannah](https://opensavannah.org), a brigade of [Code for America](https://codeforamerica.org)
