@@ -16,4 +16,13 @@ But what if we made it easier, more reliable and more convenient to take public 
 
 One point of friction holding back broader adoption of CAT in recent years has been the lack of available real-time tracking information on where CAT buses are located and how far away they are from reaching the next stop. Almost every other metropolitan area with a public bus system of Savannah's size offers this service to riders, but so far, efforts to implement similar real-time tracking solutions for CAT's fleet have failed to come to fruition. We believe we can change that.
 
-We'll be working with CAT senior planners and IT staffers –– including Grant Sparks, Brandon Doucal and Jorge Espinoza –– to build a lean, nimble, workable, scalable solution that allows users to see the location of CAT vehicles on their mobile devices in real-time. We'll need as many developers, designers, data people, CAT users and community activists on hand as possible to help us design a solution that works. While we'll start out by implementing a solution for CAT's new purple trolley fleet that runs from the Historic District to south of Forsyth Park, the underlying goal will be to design a solution that can easily scale to fulfill the needs of CAT's entire fleet of buses as the project evolves.
+
+## Estimated Rough Project Timeline
+
++ May 9 - Kickoff
+
++ July 1 - Rough deadline to launch initial Phase One implementation on historic district circulator buses.
+
++ Sept.-Oct. - Goal is to leverage success of Phase One to lobby for system-wide implementation before CAT's board.
+
++ Dec. - Jan. - Have tracking solution implemented across CAT's entire fleet.
