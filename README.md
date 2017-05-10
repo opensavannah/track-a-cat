@@ -25,4 +25,6 @@ One point of friction holding back broader adoption of CAT in recent years has b
 
 + Sept.-Oct. - Goal is to leverage success of Phase One to lobby for system-wide implementation before CAT's board.
 
-+ Dec. - Jan. - Have tracking solution implemented across CAT's entire fleet.
++ Dec. 2017  - Jan. 2018 - Have tracking solution implemented across CAT's entire fleet with launch of Phase Two.
+
++ Feb-Mar. 2018 - Assess performance and reliability to begin Phase Three, which is the maintenance phase.
