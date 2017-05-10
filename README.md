@@ -1,6 +1,6 @@
 ![](http://cvlassets.s3.amazonaws.com/Track-a-CAT.png)
 
-# Chatham Area Transit Trolley Tracker
+# Chatham Area Transit Tracker
 ### A project of [Open Savannah](https://opensavannah.org), a brigade of [Code for America](https://codeforamerica.org)
 
 ##### Project Maintainer: [Brian Young](https://github.com/brianontheroad).
