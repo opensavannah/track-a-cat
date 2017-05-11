@@ -10,7 +10,7 @@ The On Vehicle Device Team will help define how best to approach the onboard tra
 * Estimated per device cost both initial and monthly service feeds if applicable
 * Supportability and Replacement difficulty of on vehicle device
 * Configuration Requirements
-* Can the device be automated to require no driver interaction
+* Can the device be automated to require no driver interaction?
 
 ## Reference Materials:
 
