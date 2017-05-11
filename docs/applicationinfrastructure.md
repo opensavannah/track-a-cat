@@ -12,6 +12,12 @@ The Application Infrastucture Team will help define the under the hood elements 
 * Other API Interactions i.e. Google Transit or MapZen for current traffic details 
 * Long term environment RoadMap considerations
 
+## Reference Materials:
+
+* OneBusAway is open source project in use in many cities already and could be a good starting place 
+https://github.com/OneBusAway/onebusaway/wiki
+* Code for Greenville's Track the Troley Application was created for just such a purpose!  They have a simple map and API for recording trolley location and native apps for Iphone and Android for riders. See the different associated repos on their Git Hub 
+https://github.com/codeforgreenville
 
 
 
