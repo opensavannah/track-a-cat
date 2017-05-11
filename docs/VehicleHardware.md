@@ -8,6 +8,9 @@ The On Vehicle Device Team will help define how best to approach the onboard tra
 * How best to collect location from the device
 * Transmitting vehicle location to an API as a JSON object
 * Estimated per device cost both initial and monthly service feeds if applicable
+* Supportability and Replacement difficulty of on vehicle device
+* Configuration Requirements
+* Can the device be automated to require no driver interaction
 
 ## Reference Materials:
 
