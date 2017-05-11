@@ -1,6 +1,4 @@
-![](http://cvlassets.s3.amazonaws.com/track-a-cat-banner.png)
-
-# Chatham Area Transit Tracker
+# Chatham Area Transit Vehicle Tracker
 ### A project of [Open Savannah](https://opensavannah.org), a brigade of [Code for America](https://codeforamerica.org)
 
 ##### Project Maintainer: [Brian Young](https://github.com/brianontheroad).
@@ -9,7 +7,7 @@
 
 ### Interested in contributing? Let us know by [dropping a line](https://paperform.co/form/o06nqtia).
 
-### Project Scope
+### Problem Statement
 Despite a footprint of 67 buses traveling 19 different routes throughout the Savannah-area, only about four percent of Chatham County residents currently use CAT public transit buses in their daily commutes. 
 
 But what if we made it easier, more reliable and more convenient to take public transit instead of sitting in Abercorn gridlock?
