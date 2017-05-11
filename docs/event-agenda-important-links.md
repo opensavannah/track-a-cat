@@ -13,7 +13,7 @@
 * Project information page on Open Savannah website: http://opensavannah.org/projects/Track-a-CAT
 * Project WIP documentation on GitHub pages: http://cvl.io/track-a-cat-project-page
 * Icebreaker poll: http://cvl.io/poll1
-* Existing similar solutions/frameworks: [http://cvl](http://cvl/).io/existing-tracking-solutions
+* Existing similar solutions/frameworks: http://cvl.io/existing-tracking-solutions
 
 | Agenda Item                                                                                                                                                                                                   | Estimated Time        | Who                                             |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------------|
