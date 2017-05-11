@@ -18,6 +18,10 @@ The Application Infrastucture Team will help define the under the hood elements 
 https://github.com/OneBusAway/onebusaway/wiki
 * Code for Greenville's Track the Troley Application was created for just such a purpose!  They have a simple map and API for recording trolley location and native apps for Iphone and Android for riders. See the different associated repos on their Git Hub 
 https://github.com/codeforgreenville
+* Google spearheaded the creation of the GTFS protocol for recording transit routes (GTFS Static) and live location (GTFS Real Time Feed) we should use these standards if possible to make it easier to use the data from other services, like Goolge Maps
+    GTFS Static: https://developers.google.com/transit/gtfs/
+    GTFS Real Time: https://developers.google.com/transit/gtfs-realtime/
+* The OpenSavannah Brigade gets a number of benefits from being a local brigate of Code for America, including hosting!  Check out the free benefits we get here: http://brigade.codeforamerica.org/brigade/tools/ 
 
 
 
