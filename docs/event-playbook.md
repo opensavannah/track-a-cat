@@ -4,7 +4,7 @@
 
 ### May 11, 2017. Bull Street Labs.
 
-###  A PROJECT OF OPEN SAVANNAH iN COLLABORATION WITH CHATHAM AREA TRANSIT.
+###  A PROJECT OF OPEN SAVANNAH IN COLLABORATION WITH CHATHAM AREA TRANSIT.
 
 **Existing Project Leads/Maintainers: **Brian Young ([@brianontheroad](http://github.com/brianontheroad)), Rob Lingle ([@roblingle](http://github.com/roblingle)).
 
