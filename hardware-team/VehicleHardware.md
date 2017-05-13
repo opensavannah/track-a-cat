@@ -27,3 +27,6 @@ The On Vehicle Device Team will help define how best to approach the onboard tra
    * https://github.com/codeforgreenville/trolley-tracker-agent
 * Code for Miami built and designed an Arduino based solution to communicate with OneBusAway but would be a good reference for any kind of transit platform
    * https://github.com/Code-for-Miami/busTrackingGps
+
+## Team Members
+* Charlie (charles dot gerrior at gmail dot com)
