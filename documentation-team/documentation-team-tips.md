@@ -29,7 +29,7 @@ Good documentation is about more than clear instructions. It's a matter of socia
 
 Maintaining a project requires more than code. These tasks are often unexpected, but they’re just as important to a growing project. We’ve gathered a few ways to make your life easier, from documenting processes to leveraging your community.
 
-####Documenting your processes
+#### Documenting your processes
 Writing things down is one of the most important things you can do as a maintainer.
 
 Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
