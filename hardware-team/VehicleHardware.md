@@ -30,3 +30,4 @@ The On Vehicle Device Team will help define how best to approach the onboard tra
 
 ## Team Members
 * Charlie (charles dot gerrior at gmail dot com)
+* Josh (joshrosen735 at gmail dot com)
