@@ -1,3 +1,4 @@
+
 ## On Vehicle Device Team Overview
 
 The On Vehicle Device Team will help define how best to approach the onboard tracking device.  This group will work together to decide what kind of device would work best to provide vehicle location reliably and cost effectively.  Cat would like to be able to report near real time (<15 seconds behind) location of the trollies and one day be able to use same device to collect data to determine things like actual stop time, expected stop time, average time between stops, etc. Some of this can be computed at the server level but the onboard device needs to collect and transmit the right data! 
@@ -30,3 +31,4 @@ The On Vehicle Device Team will help define how best to approach the onboard tra
 
 ## Team Members
 * Charlie (charles dot gerrior at gmail dot com)
+* Brian Young
