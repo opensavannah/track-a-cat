@@ -1,0 +1,4 @@
+Suggested hardware choices and shortened urls:
+http://bit.ly/2rk4y6m - arduino uno board from arduino
+http://bit.ly/2pwTpCN - GPS and cell signal shield addon for Arduino
+http://bit.ly/2pKBnbr - arduino uno from 3rd party reseller
