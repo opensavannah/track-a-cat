@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/opensavannah/Track-a-CAT.png?label=ready&title=Ready)](https://waffle.io/opensavannah/Track-a-CAT?utm_source=badge)
 # Chatham Area Transit Vehicle Tracker
 ### A project of [Open Savannah](https://opensavannah.org), a brigade of [Code for America](https://codeforamerica.org)
 
