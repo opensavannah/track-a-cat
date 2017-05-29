@@ -2,7 +2,8 @@
 
 *Please add your name to the list using the following format: `Name - @yourgithubusername, youremail`*
 
-+ Johnny Mercer - @johnnymercer, johnny@themercerhouse.com  
++ Johnny Mercer - @johnnymercer, johnny@themercerhouse.com 
+Joshua Rosen - @joshrosen735, joshrosen735@gmail.com
 
 Feel free to edit this document directly if you are already a member of the Open Savannah org on GitHub. If you are not, you may fork this repository, make your addition, then issue a Pull Request.
 
