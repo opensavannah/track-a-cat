@@ -5,6 +5,7 @@
 + Aaron Pompei - @apompei, aaron@opensavannah.org
 + Caila Brown - ?, caila@opensavannah.org
 + Nick Palumbo - ?, npalumbo84@gmail.com
++ Akash Shah - @AkiShah, akashshah7@outlook.com
 
 Feel free to edit this document directly if you are already a member of the Open Savannah org on GitHub. If you are not, you may fork this repository, make your addition, then issue a Pull Request.
 
